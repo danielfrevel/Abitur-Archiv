@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="31" Y="29"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="12" Column="28"/>
+      </Position1>
+      <Position2>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="10" Column="21"/>
+      </Position2>
+      <Position3>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="11" Column="27"/>
+      </Position3>
+      <Position4>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="18" Column="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="12" Column="39"/>
+      </Position5>
+      <Position6>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="21"/>
+      </Position6>
+      <Position7>
+        <Filename Value="SimplesProgramm.lpr"/>
+        <Caret Line="18" Column="13"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

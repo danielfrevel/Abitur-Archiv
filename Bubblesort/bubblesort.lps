@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="bubblesort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="8" Y="23"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="bubblesort.pas"/>
+        <Caret Line="37" Column="18" TopLine="13"/>
+      </Position1>
+      <Position2>
+        <Filename Value="bubblesort.pas"/>
+        <Caret Line="25" Column="13" TopLine="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="bubblesort.pas"/>
+        <Caret Line="16" Column="12" TopLine="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="bubblesort.pas"/>
+        <Caret Line="26" Column="24"/>
+      </Position4>
+      <Position5>
+        <Filename Value="bubblesort.pas"/>
+        <Caret Line="19" Column="24" TopLine="4"/>
+      </Position5>
+      <Position6>
+        <Filename Value="bubblesort.pas"/>
+        <Caret Line="21" Column="19" TopLine="4"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

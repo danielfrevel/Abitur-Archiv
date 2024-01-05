@@ -1,0 +1,20 @@
+program Volumen;
+
+uses crt,math,sysutils;
+
+var g,h,erg:single;
+  procedure v;
+  begin
+  writeln('Bitte Grundseite in cm angeben');
+  readln(g);
+  writeln('Bitte Höhe in cm angeben ');
+  readln(h);
+  erg:=(sqr(g)*h)/3
+  writeln('Ihre Pyramide hat ein Volumen von: ',erg:5:2,'cm');
+  end;
+
+begin
+  v;
+
+end.
+

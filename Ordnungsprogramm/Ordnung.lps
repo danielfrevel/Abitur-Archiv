@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Ordnung.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="39" Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="32" Column="7" TopLine="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="24" Column="12" TopLine="2"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="25" Column="14" TopLine="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="22" Column="12"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="14" Column="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="23" Column="18"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Ordnung.lpr"/>
+        <Caret Line="25" Column="39"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

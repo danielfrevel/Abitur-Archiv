@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1454174496"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -Fi/tmp/guest-xojs2w/Schreibtisch/ha/lib/i386-linux -Fu/tmp/guest-xojs2w/Schreibtisch/ha/ -FU/tmp/guest-xojs2w/Schreibtisch/ha/lib/i386-linux/ Dreieck.pas"/>
+</CONFIG>

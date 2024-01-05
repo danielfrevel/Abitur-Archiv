@@ -1,0 +1,31 @@
+program zufall;
+
+uses crt,math,sysutils;
+
+var i,x,i1:integer;
+    liste:array [0..100] of integer;
+    a:boolean;
+
+begin
+  writeln('Zahl zwischen 1 und 100 angeben');
+  readln(x);
+  randomize;
+  for i:=0 to 100 do
+  begin
+  liste[i]:=random(101);
+  writeln(liste[i]) ;
+  end;
+  for i1:=0 to 100 do
+  begin
+        if (liste[i]=x) then
+        begin
+          a:=true;
+        end
+        else
+        begin
+         a:=false;
+        end;
+  end;
+  writeln(a);
+end.
+
